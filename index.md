@@ -16,6 +16,11 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 [View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
+DEV
+{: .label .label-green }
+
+ST
+{: .label .label-blue }
 
 {: .warning }
 > This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
